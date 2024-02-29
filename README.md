@@ -1,36 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6ba3f8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Dival+Lucas;I'm+19+years+old;I'm+from+Brazil;I'm+studying+Computer+Science;Be+Welcome!+=%29)](https://git.io/typing-svg)
+<!--título add mais tarde-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luc5z&bg_color=0d1117&color=008000&line=008000&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
- ### Main skills:
-![RubyOnRails](https://img.shields.io/badge/-Ruby_on_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=FF0000&labelColor=0D1117)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=white)&nbsp;
-
-
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6ba3f8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nathan+Viana;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Computer+Science;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+<!-- Dropdown -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-viana/)
+
+<!-- GithubStats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathanviana&show_icons=true&theme=tokyonight)
+
+
+<!-- Portfolio -->
+## Portfolio:
+- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
+- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </div>
+  
+  <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </div>
