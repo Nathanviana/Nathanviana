@@ -13,11 +13,12 @@
 <!-- GithubStats -->
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathanviana&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathanviana&show_icons=true&theme=tokyonight&bg_color=00000000" alt="GitHub Stats">
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanviana&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanviana&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs">
 </p>
+
 
 
 <!-- Links -->
