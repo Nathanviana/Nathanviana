@@ -13,13 +13,15 @@
 <!-- GithubStats -->
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathanviana&show_icons=true&theme=tokyonight&bg_color=00000000" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathanviana&count_private=true&hide_border=true&show_icons=true&theme=tokyonight&bg_color=00000000" alt="GitHub Stats">
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanviana&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanviana&count_private=true&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs">
 </p>
 
+<!-- Grafico -->
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nathanviana&bg_color=0d1117&color=6ba3f8&line=6ba3f8&point=6ba3f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Links -->
 
@@ -27,42 +29,29 @@
 <!-- GIF -->
 
 
-##  Main Skills
+## Main Skills
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Languages</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<h3>Languages</h3>
+    
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+    
   </div>
   
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
-    <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-  </div>
+  
+  <h3>Tools & Frameworks</h3>
+    
+![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255&labelColor=0D1117)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
 
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6ba3f8&height=120&section=footer"/>
-.
